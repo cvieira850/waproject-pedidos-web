@@ -1,0 +1,11 @@
+{
+  "project": "waproject/pedidos",
+  "repository": "",
+  "endpointDev": "http://localhost:3001",
+  "endpointProd": "",
+  "dockerImage": "waproject/pedidos",
+  "dockerCredentials": "UUID",
+  "sentryDsn": "",
+  "confirmed": true,
+  "slug": "waproject-pedidos"
+}

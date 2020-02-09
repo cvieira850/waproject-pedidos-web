@@ -1,4 +1,4 @@
-Projeto Base React
+waproject/pedidos
 ==================
 
 Utilize o VSCode, já está configurado com sugestão de extensões.
