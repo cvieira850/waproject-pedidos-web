@@ -82,6 +82,8 @@ const UserFormDialog = memo((props: IProps) => {
             setLoading(false);
           },
           err => {
+            console.log(err);
+
             Toast.error(err.message === 'email-unavailable' ? 'Email já utlizado' : err);
             setLoading(false);
           }
